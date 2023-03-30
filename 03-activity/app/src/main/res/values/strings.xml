@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4_Krivikov</string>
+    <string name="number_true">Количество правильных ответов:</string>
+    <string name="number_false">Количество неправильных ответов:</string>
+</resources>
