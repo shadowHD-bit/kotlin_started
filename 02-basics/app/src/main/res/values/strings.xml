@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Krivikov_8K93_Application</string>
+    <string name="button_addition">Сложить два числа</string>
+    <string name="button_division">Разделить первое число на второе</string>
+    <string name="button_subtraction">Вычесть из первого числа второе</string>
+    <string name="button_multiply">Умножить два числа</string>
+    <string name="edit_hint">Введите число</string>
+    <string name="operation_result">Результат операции: %1$f</string>
+    <string name="result_no">Здесь будет результат...</string>
+</resources>
